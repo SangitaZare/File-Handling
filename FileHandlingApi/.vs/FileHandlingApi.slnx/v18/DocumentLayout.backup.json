@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sangita\\Documents\\Project\\FileHandlingApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42E0F385-E52D-4ECA-87D6-63819F6395FA}|FileHandlingApi\\FileHandlingApi.csproj|c:\\users\\sangita\\documents\\project\\filehandlingapi\\filehandlingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E0F385-E52D-4ECA-87D6-63819F6395FA}|FileHandlingApi\\FileHandlingApi.csproj|solutionrelative:filehandlingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E0F385-E52D-4ECA-87D6-63819F6395FA}|FileHandlingApi\\FileHandlingApi.csproj|c:\\users\\sangita\\documents\\project\\filehandlingapi\\filehandlingapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{42E0F385-E52D-4ECA-87D6-63819F6395FA}|FileHandlingApi\\FileHandlingApi.csproj|solutionrelative:filehandlingapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E0F385-E52D-4ECA-87D6-63819F6395FA}|FileHandlingApi\\FileHandlingApi.csproj|c:\\users\\sangita\\documents\\project\\filehandlingapi\\filehandlingapi\\controllers\\qrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E0F385-E52D-4ECA-87D6-63819F6395FA}|FileHandlingApi\\FileHandlingApi.csproj|solutionrelative:filehandlingapi\\controllers\\qrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E0F385-E52D-4ECA-87D6-63819F6395FA}|FileHandlingApi\\FileHandlingApi.csproj|c:\\users\\sangita\\documents\\project\\filehandlingapi\\filehandlingapi\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E0F385-E52D-4ECA-87D6-63819F6395FA}|FileHandlingApi\\FileHandlingApi.csproj|solutionrelative:filehandlingapi\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E0F385-E52D-4ECA-87D6-63819F6395FA}|FileHandlingApi\\FileHandlingApi.csproj|c:\\users\\sangita\\documents\\project\\filehandlingapi\\filehandlingapi\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E0F385-E52D-4ECA-87D6-63819F6395FA}|FileHandlingApi\\FileHandlingApi.csproj|solutionrelative:filehandlingapi\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E0F385-E52D-4ECA-87D6-63819F6395FA}|FileHandlingApi\\FileHandlingApi.csproj|c:\\users\\sangita\\documents\\project\\filehandlingapi\\filehandlingapi\\filehandlingapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{42E0F385-E52D-4ECA-87D6-63819F6395FA}|FileHandlingApi\\FileHandlingApi.csproj|solutionrelative:filehandlingapi\\filehandlingapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Sangita\\Documents\\Project\\FileHandlingApi\\FileHandlingApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FileHandlingApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Sangita\\Documents\\Project\\FileHandlingApi\\FileHandlingApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FileHandlingApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-12T05:11:50.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sangita\\Documents\\Project\\FileHandlingApi\\FileHandlingApi\\Program.cs",
+              "RelativeDocumentMoniker": "FileHandlingApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Sangita\\Documents\\Project\\FileHandlingApi\\FileHandlingApi\\Program.cs",
+              "RelativeToolTip": "FileHandlingApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T05:11:34.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QrController.cs",
+              "DocumentMoniker": "C:\\Users\\Sangita\\Documents\\Project\\FileHandlingApi\\FileHandlingApi\\Controllers\\QrController.cs",
+              "RelativeDocumentMoniker": "FileHandlingApi\\Controllers\\QrController.cs",
+              "ToolTip": "C:\\Users\\Sangita\\Documents\\Project\\FileHandlingApi\\FileHandlingApi\\Controllers\\QrController.cs",
+              "RelativeToolTip": "FileHandlingApi\\Controllers\\QrController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T05:07:48.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "C:\\Users\\Sangita\\Documents\\Project\\FileHandlingApi\\FileHandlingApi\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "FileHandlingApi\\Controllers\\ReportsController.cs",
+              "ToolTip": "C:\\Users\\Sangita\\Documents\\Project\\FileHandlingApi\\FileHandlingApi\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "FileHandlingApi\\Controllers\\ReportsController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAwGIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T05:07:28.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImagesController.cs",
+              "DocumentMoniker": "C:\\Users\\Sangita\\Documents\\Project\\FileHandlingApi\\FileHandlingApi\\Controllers\\ImagesController.cs",
+              "RelativeDocumentMoniker": "FileHandlingApi\\Controllers\\ImagesController.cs",
+              "ToolTip": "C:\\Users\\Sangita\\Documents\\Project\\FileHandlingApi\\FileHandlingApi\\Controllers\\ImagesController.cs",
+              "RelativeToolTip": "FileHandlingApi\\Controllers\\ImagesController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T05:07:05.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileHandlingApi",
+              "DocumentMoniker": "C:\\Users\\Sangita\\Documents\\Project\\FileHandlingApi\\FileHandlingApi\\FileHandlingApi.csproj",
+              "RelativeDocumentMoniker": "FileHandlingApi\\FileHandlingApi.csproj",
+              "ToolTip": "C:\\Users\\Sangita\\Documents\\Project\\FileHandlingApi\\FileHandlingApi\\FileHandlingApi.csproj",
+              "RelativeToolTip": "FileHandlingApi\\FileHandlingApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-12T05:06:26.734Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
